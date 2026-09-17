@@ -22,7 +22,7 @@ min-height: 100vh;
 .header {
 padding: 40px 20px;
 text-align: center;
-background: #111827;
+background: #ff96b9;
 color: white;
 }
 
@@ -67,7 +67,7 @@ main{
     width: 55px;
     height: 55px;
     border-radius: 50%;
-    background: #111827;
+    background: #ff95ca;
     color: white;
 
     display: flex;
