@@ -101,8 +101,10 @@ function ProfileCard(){
             )
             )}
             
-            {/* <Post author="Ksusha" title="Блалала" likes={17} text="еще какой-то текст"/>
+            {/* <Poost author="Ksusha" title="Блалала" likes={17} text="еще какой-то текст"/>
             <Post author="Ksusha" title="Пупупу" likes={17} text="и еще какой-то текст"/> */}
+
+
         </section>
     )
 }
